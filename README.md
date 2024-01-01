@@ -36,17 +36,17 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
 
-  ``` git clone https://github.com/kdsking19/EmailSpam_Detection/)https://github.com/kdsking19/EmailSpam_Detection.git ```
+      ``` git clone https://github.com/kdsking19/EmailSpam_Detection/)https://github.com/kdsking19/EmailSpam_Detection.git ```
   
-  ``` cd spam-email-detection ```
+      ``` cd spam-email-detection ```
 
 2. Install dependencies:
 
-  ``` pip install -r requirements.txt ```
+      ``` pip install -r requirements.txt ```
 
 3. Run the application:
 
-  ``` python app.py ```
+      ``` python app.py ```
 
 ## Dataset
 
