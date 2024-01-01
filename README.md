@@ -54,7 +54,8 @@ Describe the dataset used for training and testing the spam filter. Include info
 
 ## Results
 
-![newplot](https://github.com/kdsking19/EmailSpam_Detection/assets/93511618/5b917aa4-68d3-475f-a512-9e7494f27946)
+![newplot](https://github.com/kdsking19/EmailSpam_Detection/assets/93511618/649f78a8-b30a-4e8c-9b11-899e7b4c1b07)
+
 
 ## License
 
